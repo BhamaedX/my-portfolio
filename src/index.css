@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Playwrite+IT+Moderna:wght@100..400&display=swap');
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #F5F0E8;
+  color: #171512;
+}
