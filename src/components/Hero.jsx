@@ -12,7 +12,7 @@ function Hero() {
       </p>
 
       <p className="description">
-        Electronics and Communication Engineering student exploring
+        Second year Electronics and Communication Engineering student exploring
         intelligent systems, embedded technologies, IoT, and the
         intersection of hardware and security.
       </p>
